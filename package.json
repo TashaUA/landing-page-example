@@ -1,0 +1,28 @@
+{
+  "name": "landing-page-example",
+  "version": "1.0.0",
+  "description": "landing example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TashaUA/landing-page-example.git"
+  },
+  "author": "TashaUA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TashaUA/landing-page-example/issues"
+  },
+  "homepage": "https://github.com/TashaUA/landing-page-example#readme",
+  "devDependencies": {
+    "browser-sync": "^2.18.12",
+    "gulp": "github:gulpjs/gulp#4.0",
+    "gulp-pug": "^3.3.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0",
+    "gulp.spritesmith": "^6.5.0",
+    "rimraf": "^2.6.1"
+  }
+}
